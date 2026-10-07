@@ -84,11 +84,11 @@ export default function Footer() {
               Kontakt
             </h4>
             <div className="space-y-2 text-xs text-slate-400 font-semibold">
-              <p className="text-white font-bold">CBF REALITY s.r.o.</p>
+              <p className="text-white font-bold">CBF REALITY</p>
               <p>Michalovce a okolie</p>
               <p className="pt-2 text-slate-300">
                 <span className="text-slate-500 block text-[10px] uppercase font-bold">Telefón:</span>
-                +421 9XX XXX XXX
+                +421 905 957 137
               </p>
               <p className="text-slate-300">
                 <span className="text-slate-500 block text-[10px] uppercase font-bold">E-mail:</span>
